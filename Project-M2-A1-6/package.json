@@ -1,0 +1,11 @@
+{
+  "name": "project-m2-a1-6",
+  "version": "1.0.0",
+  "description": "IFT458 M2 A1 Step 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chase Timmons",
+  "license": "ISC"
+}
